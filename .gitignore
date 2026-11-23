@@ -1,0 +1,5 @@
+.xmake/
+build/
+__pycache__/
+/lightdocs/
+.idea

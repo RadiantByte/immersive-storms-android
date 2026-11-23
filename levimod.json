@@ -1,0 +1,10 @@
+{
+  "id": "immersive_storms",
+  "version": "1.0.0",
+  "info": {
+    "name": "Immersive Storms",
+    "author": "TheDeathlyCow (Original Mod), Ported by MrPokeG",
+    "description": "Biome-specific sandstorms, blizzards, fog, black rain and wind for Minecraft Bedrock.",
+    "icon": "assets/icon.png"
+  }
+}
